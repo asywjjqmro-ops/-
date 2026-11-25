@@ -3,12 +3,12 @@
     "appName": "CapCut",
     "packageName": "com.lemon.lvoverseas",
     "versionCode":19600200,
-    "updateUrl": "https://t.me/SnMods2",
+    "updateUrl": "https://t.me/Ahmods0",
     "title": "App Has Expired",
     "description": "Your app version is too old and no longer supported. Please update to the latest version.",
-    "isForce": false,
-    "isExpired": false,
-    "expiryDate": "2029-09-01",
+    "isForce": true,
+    "isExpired": true,
+    "expiryDate": "2025-09-01",
     "closeButtonText": "Cancel",
     "updateButtonText": "Get Update"
   }
